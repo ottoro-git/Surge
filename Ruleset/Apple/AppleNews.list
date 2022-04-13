@@ -1,0 +1,14 @@
+# Apple News
+
+PROCESS-NAME,News
+PROCESS-NAME,News*
+PROCESS-NAME,AppleNews*
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple.news
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+## GeoServices.framework,会改变自带地图服务提供商
+DOMAIN,gspe1-ssl.ls.apple.com
