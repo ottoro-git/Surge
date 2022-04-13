@@ -1,0 +1,14 @@
+DOMAIN-KEYWORD, trakt
+DOMAIN-SUFFIX, rottentomatoes.com
+DOMAIN-SUFFIX, themoviedb.org
+DOMAIN-SUFFIX, tmdb.org
+DOMAIN-SUFFIX, plex.tv
+# Adobe
+DOMAIN-SUFFIX, adobelogin.com
+DOMAIN-SUFFIX, adobe.com
+DOMAIN-SUFFIX, adobe.io
+# Behance
+DOMAIN-SUFFIX, behance.net
+# Pinterest
+DOMAIN-SUFFIX, pinimg.com
+DOMAIN-SUFFIX, pinterest.com
