@@ -2,3 +2,4 @@ PROCESS-NAME,Spotify
 USER-AGENT,*Spotify*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
