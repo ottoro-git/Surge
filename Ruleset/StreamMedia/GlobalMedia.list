@@ -1,13 +1,12 @@
-#流媒体耗流量
+# Streaming Media
+
+# > HBO
 DOMAIN-SUFFIX,hbomaxcdn.com
+# > Disney+
 DOMAIN-SUFFIX,disneystreaming.com
 DOMAIN-SUFFIX,dssott.com
-# > Pocketcasts
-DOMAIN-SUFFIX, pocketcasts.com
-
 # > Hulu
 DOMAIN-SUFFIX,hulustream.com
-# Streaming Media
 
 # (Live)
 # > Twitch
@@ -48,6 +47,9 @@ USER-AGENT,com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 
 # (Podcast)
+# > Pocket Casts
+DOMAIN-SUFFIX,pocketcasts.com
+PROCESS-NAME,Pocket Casts,GlobalMedia
 # > Overcast
 USER-AGENT,Overcast*
 DOMAIN-SUFFIX,overcast.fm
