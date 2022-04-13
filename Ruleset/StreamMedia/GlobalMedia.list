@@ -1,5 +1,8 @@
 # Streaming Media
 
+# CDN
+DOMAIN-SUFFIX, akamaihd.net
+DOMAIN-SUFFIX, cloudfront.net
 # > HBO
 DOMAIN-SUFFIX,hbomaxcdn.com
 # > Disney+
